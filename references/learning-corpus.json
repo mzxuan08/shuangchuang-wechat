@@ -1,9 +1,55 @@
 {
   "retrieved_on": "2026-10-23",
   "original_sample_count": 6,
-  "new_sample_count": 13,
-  "sample_count_total": 19,
-  "method": "读取可访问正文后归纳写法，不收录搜索摘要替代全文，不分发新闻全文与图片。",
+  "new_sample_count": 34,
+  "sample_count_total": 40,
+  "method": "读取可访问正文后归纳写法，不以搜索摘要替代正文，不分发新闻全文与图片。",
+  "batches": [
+    {
+      "version": "2.1.0",
+      "article_ids": [
+        "N01",
+        "N02",
+        "N03",
+        "N04",
+        "N05",
+        "N06",
+        "N07",
+        "N08",
+        "N09",
+        "N10",
+        "N11",
+        "N12",
+        "N13"
+      ]
+    },
+    {
+      "version": "2.2.0",
+      "article_ids": [
+        "N14",
+        "N15",
+        "N16",
+        "N17",
+        "N18",
+        "N19",
+        "N20",
+        "N21",
+        "N22",
+        "N23",
+        "N24",
+        "N25",
+        "N26",
+        "N27",
+        "N28",
+        "N29",
+        "N30",
+        "N31",
+        "N32",
+        "N33",
+        "N34"
+      ]
+    }
+  ],
   "articles": [
     {
       "id": "N01",
@@ -122,6 +168,195 @@
       "url": "https://www.gzu.edu.cn/2025/0718/c22305a255485/page.htm",
       "kind": "平台启动与转载",
       "reading": "已读取官方转载页正文；不另计为原始采访"
+    },
+    {
+      "id": "N14",
+      "title": "复虹青创汇：一批批青年创业者在此启航梦想征程",
+      "publisher": "复旦大学新闻网",
+      "published": "2025-12-02",
+      "url": "https://news.fudan.edu.cn/2025/1202/c31a147590/page.htm",
+      "kind": "创业孵化特写",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N15",
+      "title": "2025年度中国人民大学“大学生创业训练计划”收官",
+      "publisher": "中国人民大学新闻网",
+      "published": "2026-06-15",
+      "url": "https://news.ruc.edu.cn/2066443374072889345.html",
+      "kind": "训练计划结项",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N16",
+      "title": "【特稿】构建“环川大”科创服务新生态：科技园改革赋能科技成果转化落地",
+      "publisher": "四川大学新闻网",
+      "published": "2025-12-15",
+      "url": "https://news.scu.edu.cn/info/1135/53487.htm",
+      "kind": "科技园服务深稿",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N17",
+      "title": "“科技创新 青春激扬”北大医学首届大学生创新转化大赛 半决赛举办 二十二强项目晋级巅峰对决",
+      "publisher": "北医新闻网",
+      "published": "2025-09-08",
+      "url": "https://bynews.bjmu.edu.cn/zhxw/2025/17ae0e6ecbfb499ca19fc8634c6f9bab.htm",
+      "kind": "分赛道晋级",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N18",
+      "title": "我校成功组织2025年“大学生创新训练计划”项目结题验收工作",
+      "publisher": "大连海事大学新闻网",
+      "published": "2026-01-12",
+      "url": "https://news.dlmu.edu.cn/info/1376/813327.htm",
+      "kind": "项目验收",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N19",
+      "title": "发现改变世界的天大青年力量 天津大学首届“宣怀杯”学生创新创业大赛决赛圆满落幕",
+      "publisher": "天津大学",
+      "published": "2025-05-26",
+      "url": "https://www.tju.edu.cn/info/1026/10563.htm",
+      "kind": "决赛与孵化衔接",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N20",
+      "title": "【清华育人故事】生医工程学院洪波：神经奇迹、五瓣丁香与向量定律",
+      "publisher": "清华大学新闻网",
+      "published": "2026-04-20",
+      "url": "https://www.tsinghua.edu.cn/info/3235/125402.htm",
+      "kind": "导师育人故事",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N21",
+      "title": "党建领航促发展 学科碰撞启新篇：医学部与人工智能学院开展首期支部共建学术交流活动",
+      "publisher": "大连理工大学人工智能学院（机器人与智能系统研究院）",
+      "published": "2025-12-15",
+      "url": "https://robot.dlut.edu.cn/info/1572/3352.htm",
+      "kind": "医工交叉交流",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N22",
+      "title": "播撒数字火种 我校社会实践团队获主流媒体报道",
+      "publisher": "四川大学锦江学院（含媒体原文转载）",
+      "published": "2025-07-17",
+      "url": "https://www.scujj.edu.cn/html/news/xw/zhxw/2025/2025-07/25038.html",
+      "kind": "数字助农与媒体报道",
+      "reading": "已读取页面正文及所附转载正文；网页工具超时部分经公开页面直接读取补全"
+    },
+    {
+      "id": "N23",
+      "title": "【中国江苏网】徐医大\"红医薪火\"实践队圆满完成\"井冈情 中国梦\"社会实践活动",
+      "publisher": "徐州医科大学（转载中国江苏网）",
+      "published": "2026-08-25",
+      "url": "https://www.xzhmu.edu.cn/info/1026/7871.htm",
+      "kind": "医学实践收官",
+      "reading": "已读取官方转载页正文"
+    },
+    {
+      "id": "N24",
+      "title": "三下乡 | “智械先锋”社会实践团：智械赋能沃野 科技叩响振兴之门",
+      "publisher": "山东科技大学新闻网",
+      "published": "2025-08-23",
+      "url": "https://news.sdust.edu.cn/info/1159/103554.htm",
+      "kind": "农机需求调研",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N25",
+      "title": "“长雅医支队”再次奔赴西藏山南开展暑期社会实践",
+      "publisher": "长江大学新闻网",
+      "published": "2025-07-09",
+      "url": "https://news.yangtzeu.edu.cn/info/1021/36439.htm",
+      "kind": "实践出征",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N26",
+      "title": "暑期社会实践｜我校“秦韵乡兴，菌技助农”社会实践团队以菌技为笔，绘就乡村振兴新图景",
+      "publisher": "西安工程大学团委",
+      "published": "2025-07-17",
+      "url": "https://tuanwei.xpu.edu.cn/info/1069/13689.htm",
+      "kind": "菌技助农与接力实践",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N27",
+      "title": "企业发榜·高校揭单 我校代表赴蒲江参加2026“校企人才集市”活动",
+      "publisher": "成都大学新闻网",
+      "published": "2026-10-10",
+      "url": "https://news.cdu.edu.cn/info/1004/49672.htm",
+      "kind": "人才与技术需求对接",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N28",
+      "title": "【喜讯】南昌大学护理学院两团队项目获2025年“中华护理学会科技奖”三等奖",
+      "publisher": "南昌大学护理学院",
+      "published": "2025-11-14",
+      "url": "https://hlx.ncu.edu.cn/info/1050/10012.htm",
+      "kind": "护理双项目喜报",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N29",
+      "title": "郑州大学护理与健康学院成功举办科技成果转化对接会",
+      "publisher": "郑州大学护理与健康学院",
+      "published": "2026-06-26",
+      "url": "https://www5.zzu.edu.cn/hlxy/info/1026/5732.htm",
+      "kind": "政策与成果转化对接",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N30",
+      "title": "徐州医科大学护理学院参加徐州经开区“智汇经开 协同创新”产学研对接活动",
+      "publisher": "徐州医科大学护理学院",
+      "published": "2025-11-25",
+      "url": "https://xyhl.xzhmu.edu.cn/info/1003/2310.htm",
+      "kind": "护理成果路演短讯",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N31",
+      "title": "科技助农，青春建功｜我校科技小院志愿者服务队对接仪式顺利举办",
+      "publisher": "共青团长春科技学院委员会",
+      "published": "2026-06-05",
+      "url": "https://www.cstu.edu.cn/tw/info/1042/20736.htm",
+      "kind": "服务队对接与筹备",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N32",
+      "title": "学院看望慰问驻村工作队员及科技小院师生",
+      "publisher": "云南农业大学资源与环境学院",
+      "published": "2026-02-09",
+      "url": "https://zhxy.ynau.edu.cn/info/1048/5139.htm",
+      "kind": "驻地师生走访",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N33",
+      "title": "我校举办生物医药科技园入驻项目路演",
+      "publisher": "湖北医药学院",
+      "published": "2025-09-30",
+      "url": "https://www.hbmu.edu.cn/2025/0930/c1055a93589/page.htm",
+      "kind": "孵化基地入驻路演",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N34",
+      "title": "第一临床学院举行创新创业沙龙",
+      "publisher": "湖北医药学院第一临床医学院",
+      "published": "2025-11-26",
+      "url": "https://dylcxy.hbmu.edu.cn/2025/1126/c58a96097/page.htm",
+      "kind": "面向新生的项目沙龙",
+      "reading": "已读取页面正文"
     }
   ]
 }

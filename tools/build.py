@@ -69,13 +69,18 @@ def validate(files):
     assert len({x['url'] for x in articles})==len(articles)
     assert all(f"## {x['id']}｜" in new_cards for x in articles)
     assert corpus['sample_count_total']==6+len(articles)
+    assert [x['id'] for x in articles]==[f'N{i:02d}' for i in range(1,len(articles)+1)]
+    assert all(x['url'].startswith('https://') and x['reading'] for x in articles)
+    batch_ids=[item for batch in corpus['batches'] for item in batch['article_ids']]
+    assert batch_ids==[x['id'] for x in articles], 'Batch index differs from source cards'
+    assert corpus['batches'][-1]['version']==VERSION
     adapted_entry=workbuddy_entry(entry)
     wb_header,wb_body=adapted_entry[4:].split('\n---\n',1)
     assert wb_body==body
     for key in ('name','description','description_zh','description_en','version','author'):
         assert re.search(r'^'+key+r': .+',wb_header,re.M)
     assert f'version: "{VERSION}"' in wb_header
-    return dict(version=VERSION,files=len(files),local_links=links,original_source_cards=6,new_source_cards=len(articles),source_cards_total=corpus['sample_count_total'],upstream_snapshots=len(provenance['files']),single_entry=True,portable_paths=True,workbuddy_metadata=True,writing_body_identical=True)
+    return dict(version=VERSION,files=len(files),local_links=links,original_source_cards=6,new_source_cards=len(articles),latest_batch_source_cards=len(corpus['batches'][-1]['article_ids']),source_cards_total=corpus['sample_count_total'],upstream_snapshots=len(provenance['files']),single_entry=True,portable_paths=True,workbuddy_metadata=True,writing_body_identical=True)
 
 
 def package(files,out,workbuddy=False):

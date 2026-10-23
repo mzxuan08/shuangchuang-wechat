@@ -1,8 +1,8 @@
 ---
 name: shuangchuang-wechat
-description: 为双创、科研与成果转化团队撰写或修改微信公众号推文。用于竞赛喜报、学术交流、项目进展、校企商会座谈、签约合作、成果对接、备赛路演、团队侧记和科创深稿，尤其适合要求正式自然、突出真实贡献、减少防御性写作和去 AI 味的场景。不用于论文或项目申报书。
+description: 为双创、科研与成果转化团队撰写或修改微信公众号推文。用于竞赛喜报、学术交流、项目进展、校企商会座谈、签约合作、成果对接、备赛路演、创业孵化、项目结题、社会实践、师生侧记和科创深稿，尤其适合要求正式自然、突出真实贡献、减少防御性写作和去 AI 味的场景。不用于论文或项目申报书。
 metadata:
-  version: "2.1.0"
+  version: "2.2.0"
   author: "mzxuan08"
 ---
 
@@ -23,7 +23,7 @@ metadata:
 
 **新写、重写时使用价值叙事；轻清理时只在原权限内消除自我削弱。** 用户只要局部改动，就不借“反防御”重排全文。重写现有稿件也不擅自删去独立事实、负面结果或限定；用户明确允许选材、删减后才压缩。
 
-先读 [写法与语气](references/style-dna.md) 和 [价值叙事与反防御](references/anti-defensive.md)。按任务读 [体裁指南](references/article-types.md)、[编辑引擎](references/editing.md)。写座谈、签约、成果对接、备赛或人物稿时，再读 [同类报道的具体写法](references/field-style.md)。需要来源时查 [原六篇卡片](references/source-cards.md)、[扩展十三篇卡片](references/expanded-sources.md)；需要对照时读 [示例](references/examples.md)。三个技能的能力对应见 [能力映射](references/capabilities.md)。
+先读 [写法与语气](references/style-dna.md) 和 [价值叙事与反防御](references/anti-defensive.md)。按任务读 [体裁指南](references/article-types.md)、[编辑引擎](references/editing.md)。写座谈、签约、成果对接、备赛或人物稿时，再读 [同类报道的具体写法](references/field-style.md)。写孵化成长、结题、社会实践、出征、师生故事或面向新生的沙龙时，读 [孵化与实践写法](references/practice-and-incubation.md)。需要来源时按 [扩展样本任务索引](references/expanded-sources.md) 选择同类卡片，原始语气参照 [原六篇](references/source-cards.md)；需要对照时读 [示例](references/examples.md)。三个技能的能力对应见 [能力映射](references/capabilities.md)。
 
 ## 保留正式称谓与作者语气
 
