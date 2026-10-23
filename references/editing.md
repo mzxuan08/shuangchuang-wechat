@@ -12,6 +12,8 @@
 
 保留原文全部事实、观点和必要限定。不为了句长、段长参差而造节奏，不强加口语、人称或代词。真实题名、引语、固定定义与公文表述按其保护条件处理。“仅10人”若不在白名单触发范围内，不能仅因反防御而偷偷改掉。
 
+原稿“某某老师”等称呼及用户指定措辞受保护；它们不构成白名单触发项，不以减少重复或增加客观性为由删除。用户只要恢复某个称呼时，局部恢复，不顺带再润色全稿。
+
 ## 模式二：保义重写
 
 读取 [qu-ai-wei 完整规则](upstream/qu-ai-wei/rules.md) 和 [模式目录](upstream/qu-ai-wei/references/pattern-catalog.md)。边界不清时读 [editing-boundaries.md](upstream/qu-ai-wei/references/editing-boundaries.md)；其余参考按原规则路由读取。

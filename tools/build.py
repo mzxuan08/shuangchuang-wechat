@@ -8,7 +8,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 NAME = 'shuangchuang-wechat'
-VERSION = '2.0.0'
+VERSION = re.search(r'^  version: "([^"]+)"$', (ROOT/'SKILL.md').read_text(encoding='utf-8'), re.M).group(1)
 
 
 def source_files():
@@ -19,10 +19,10 @@ def source_files():
 
 def workbuddy_entry(text):
     header, body = text.split('\n---\n', 1)
-    fields = '''display_name: "双创团队公众号"
+    fields = f'''display_name: "双创团队公众号"
 description_zh: "为双创团队写正式自然的公众号推文，突出贡献、减少防御，并支持轻清理与全文重写。"
 description_en: "Write innovation-team WeChat articles with evidence-led value narratives, less defensive framing, and scoped Chinese editing."
-version: "2.0.0"
+version: "{VERSION}"
 author: "mzxuan08"
 '''
     return header + '\n' + fields + '---\n' + body
@@ -61,12 +61,21 @@ def validate(files):
     assert hashlib.sha256(target.read_bytes()).hexdigest()==adapted['adaptation_sha256']
     cards=(ROOT/'references/source-cards.md').read_text(encoding='utf-8')
     assert all(f'## S{i}｜' in cards for i in range(1,7))
+    corpus=json.loads((ROOT/'references/learning-corpus.json').read_text(encoding='utf-8'))
+    new_cards=(ROOT/'references/expanded-sources.md').read_text(encoding='utf-8')
+    articles=corpus['articles']
+    assert len(articles)==corpus['new_sample_count']
+    assert len({x['id'] for x in articles})==len(articles)
+    assert len({x['url'] for x in articles})==len(articles)
+    assert all(f"## {x['id']}｜" in new_cards for x in articles)
+    assert corpus['sample_count_total']==6+len(articles)
     adapted_entry=workbuddy_entry(entry)
     wb_header,wb_body=adapted_entry[4:].split('\n---\n',1)
     assert wb_body==body
     for key in ('name','description','description_zh','description_en','version','author'):
         assert re.search(r'^'+key+r': .+',wb_header,re.M)
-    return dict(files=len(files),local_links=links,source_cards=6,upstream_snapshots=len(provenance['files']),single_entry=True,portable_paths=True,workbuddy_metadata=True,writing_body_identical=True)
+    assert f'version: "{VERSION}"' in wb_header
+    return dict(version=VERSION,files=len(files),local_links=links,original_source_cards=6,new_source_cards=len(articles),source_cards_total=corpus['sample_count_total'],upstream_snapshots=len(provenance['files']),single_entry=True,portable_paths=True,workbuddy_metadata=True,writing_body_identical=True)
 
 
 def package(files,out,workbuddy=False):

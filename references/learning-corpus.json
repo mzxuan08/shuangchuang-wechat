@@ -1,0 +1,127 @@
+{
+  "retrieved_on": "2026-10-23",
+  "original_sample_count": 6,
+  "new_sample_count": 13,
+  "sample_count_total": 19,
+  "method": "读取可访问正文后归纳写法，不收录搜索摘要替代全文，不分发新闻全文与图片。",
+  "articles": [
+    {
+      "id": "N01",
+      "title": "产教融合 发展共赢｜上海交大&上海地市商会联合会科创开放日举行",
+      "publisher": "上海交通大学中银科技金融学院",
+      "published": "2025-06-19",
+      "url": "https://itf.sjtu.edu.cn/portal/show-80-594.html",
+      "kind": "商会座谈",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N02",
+      "title": "我中心与南京安徽商会共同举办产学研合作沙龙",
+      "publisher": "南京农业大学技术转移中心",
+      "published": "2022-03-10",
+      "url": "https://jszyzx.njau.edu.cn/info/1066/2893.htm",
+      "kind": "商会沙龙",
+      "reading": "已读取页面正文；历史写法样本"
+    },
+    {
+      "id": "N03",
+      "title": "深化校地合作 共谋产学研融合——学校赴贵阳综保区开展调研",
+      "publisher": "贵阳学院",
+      "published": "2026-04-23",
+      "url": "https://www.gyu.edu.cn/info/1404/13598.htm",
+      "kind": "访企调研",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N04",
+      "title": "我校第二届中医药成果转化技术交易市场暨校企需求对接会举办",
+      "publisher": "上海中医药大学",
+      "published": "2026-06-11",
+      "url": "https://www.shutcm.edu.cn/2026/0611/c6529a174113/page.htm",
+      "kind": "成果对接",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N05",
+      "title": "港深创新及科技园代表一行来校调研交流",
+      "publisher": "大连医科大学新闻网",
+      "published": "2026-06-25",
+      "url": "https://news.dmu.edu.cn/info/1265/30400.htm",
+      "kind": "园区校院交流",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N06",
+      "title": "我院召开科技成果转化工作座谈会",
+      "publisher": "郑州大学基础医学院",
+      "published": null,
+      "date_note": "所读正文写7月8日，页面可见文本未显示完整发布日期",
+      "url": "https://www5.zzu.edu.cn/jcyxy/info/1106/4897.htm",
+      "kind": "院企座谈",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N07",
+      "title": "【喜讯】我校5个项目斩获中国国际大学生创新大赛（2025）国家级奖项",
+      "publisher": "广西医科大学新闻网",
+      "published": "2026-03-31",
+      "url": "https://www.gxmu.edu.cn/news/xxyw/t230979.html",
+      "kind": "多项目喜报",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N08",
+      "title": "医学部顺利举行2025年中国国际大学生创新创业大赛",
+      "publisher": "荆楚理工学院医学部",
+      "published": "2025-05-07",
+      "url": "https://yxy.jcut.edu.cn/info/1038/2529.htm",
+      "kind": "院级竞赛",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N09",
+      "title": "生命科学学院创新赛课融合模式开展双创路演",
+      "publisher": "南昌大学生命科学学院",
+      "published": "2025-04-18",
+      "url": "https://bio.ncu.edu.cn/info/2354/22451.htm",
+      "kind": "赛课路演",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N10",
+      "title": "郑大故事：七年深耕，用坚守书写科创惠民新篇——记中国国际大学生创新大赛（2025）金奖团队“豫战早癌”",
+      "publisher": "郑州大学",
+      "published": "2025-12-15",
+      "url": "https://www15.zzu.edu.cn/info/1217/87301.htm",
+      "kind": "团队侧记",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N11",
+      "title": "学校与恒瑞医药签署战略合作协议",
+      "publisher": "大连医科大学新闻网",
+      "published": "2026-03-27",
+      "url": "https://news.dmu.edu.cn/info/1265/29670.htm",
+      "kind": "正式签约",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N12",
+      "title": "全国银奖，我校在中国国际大学生创新大赛（2025）斩获历史佳绩",
+      "publisher": "海南医科大学",
+      "published": "2025-10-18",
+      "url": "https://www.muhn.edu.cn/info/4361/153892.htm",
+      "kind": "喜报与服务案例",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N13",
+      "title": "新华网·贵州频道：区域企业数智化产教融合实践中心项目落地贵州",
+      "publisher": "贵州大学媒体贵大栏目（转载新华网）",
+      "published": "2025-07-18",
+      "url": "https://www.gzu.edu.cn/2025/0718/c22305a255485/page.htm",
+      "kind": "平台启动与转载",
+      "reading": "已读取官方转载页正文；不另计为原始采访"
+    }
+  ]
+}

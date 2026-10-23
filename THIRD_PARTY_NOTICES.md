@@ -6,5 +6,6 @@
 - **qu-ai-wei**：来源 [LifelongLazyLearner/qu-ai-wei](https://github.com/LifelongLazyLearner/qu-ai-wei)，保留 MIT License、署名与执行参考文档。入口改名为 `rules.md`，正文保留。
 - **anti-defensive-writing**：依据用户提供的技能原则进行公众号场景改编，涵盖价值主线、比较范围、反自我削弱、证据职责、结构、弱材料决策与复扫。未再分发其原始技能文件；对应内容见 [反防御指南](references/anti-defensive.md)。
 - **新闻范文**：五篇“太和护理”文章及一篇由“武汉市科技创新服务中心”转载的《瞭望》科创报道，保留原链接与简短观察摘录，用于写法分析。文章、照片及媒体标识不属于本项目的 MIT 授权范围；原文全文和图片未打包。
+- **扩展范文**：2.1版另据13篇高校官方报道或官方转载作简短写法分析。逐篇来源、可见日期和阅读状态见 [扩展样本](references/expanded-sources.md)。不分发这些文章的正文或图片，不将其成果与主张改作本项目事实。
 
 源规则中的统计与研究判断保留原归属，本项目不将其重新包装为自己完成的研究。三个能力的具体接法与冲突边界见 [能力映射](references/capabilities.md)。
