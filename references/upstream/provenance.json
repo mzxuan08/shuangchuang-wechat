@@ -1,0 +1,95 @@
+{
+  "snapshot_date": "2026-10-23",
+  "purpose": "随包内置两套完整编辑规则与公众号场景的反防御改编；运行无需原技能或任何本机目录。",
+  "files": [
+    {
+      "skill": "lieflat-less-ai-tone",
+      "source": "lieflat-less-ai-tone/SKILL.md",
+      "snapshot": "lieflat-less-ai-tone/rules.md",
+      "source_sha256": "c55dec1765c2d6ce31f9e03e62876b36a3a65af830350d4d0d5bab6df766b042",
+      "snapshot_sha256": "828684dfcc0eeac07b898ffe1ec7e39cc57865166e582fe3461689f6e650e061",
+      "adaptations": [
+        "研究附录链接改为说明文字；规则正文不变，避免携带研究开发文档及其非运行依赖。"
+      ]
+    },
+    {
+      "skill": "lieflat-less-ai-tone",
+      "source": "lieflat-less-ai-tone/LICENSE",
+      "snapshot": "lieflat-less-ai-tone/LICENSE",
+      "source_sha256": "ea0bb158cb3b86076842202461a9bef2bd96d560dc76b3ef5d7a2c0f326c55b9",
+      "snapshot_sha256": "ea0bb158cb3b86076842202461a9bef2bd96d560dc76b3ef5d7a2c0f326c55b9",
+      "adaptations": []
+    },
+    {
+      "skill": "qu-ai-wei",
+      "source": "qu-ai-wei/SKILL.md",
+      "snapshot": "qu-ai-wei/rules.md",
+      "source_sha256": "e06b47d7bd793ce2b2138af7b6fe4ec9e4549d25b681f2671d33e5e5a9088508",
+      "snapshot_sha256": "e06b47d7bd793ce2b2138af7b6fe4ec9e4549d25b681f2671d33e5e5a9088508",
+      "adaptations": []
+    },
+    {
+      "skill": "qu-ai-wei",
+      "source": "qu-ai-wei/LICENSE",
+      "snapshot": "qu-ai-wei/LICENSE",
+      "source_sha256": "38afb5701ea731548bf4ec5e9f550e0150cfa5257071114eac0de1ee0902a5ef",
+      "snapshot_sha256": "38afb5701ea731548bf4ec5e9f550e0150cfa5257071114eac0de1ee0902a5ef",
+      "adaptations": []
+    },
+    {
+      "skill": "qu-ai-wei",
+      "source": "qu-ai-wei/references/pattern-catalog.md",
+      "snapshot": "qu-ai-wei/references/pattern-catalog.md",
+      "source_sha256": "d995f88cb7509f4b1ecdde755a3353d5cee98f227476d60941aaceaf8c0f0a25",
+      "snapshot_sha256": "d995f88cb7509f4b1ecdde755a3353d5cee98f227476d60941aaceaf8c0f0a25",
+      "adaptations": []
+    },
+    {
+      "skill": "qu-ai-wei",
+      "source": "qu-ai-wei/references/editing-boundaries.md",
+      "snapshot": "qu-ai-wei/references/editing-boundaries.md",
+      "source_sha256": "f0f3c8941cf0bf35bf43d96cd2f334b828f1d82b15c1dc277efe2a8bf3079fd5",
+      "snapshot_sha256": "f0f3c8941cf0bf35bf43d96cd2f334b828f1d82b15c1dc277efe2a8bf3079fd5",
+      "adaptations": []
+    },
+    {
+      "skill": "qu-ai-wei",
+      "source": "qu-ai-wei/references/brand-voice.md",
+      "snapshot": "qu-ai-wei/references/brand-voice.md",
+      "source_sha256": "c800f0dd306323696d12465572d9beaa0e6a60ec18500e45ea8c125f7482bf83",
+      "snapshot_sha256": "c800f0dd306323696d12465572d9beaa0e6a60ec18500e45ea8c125f7482bf83",
+      "adaptations": []
+    },
+    {
+      "skill": "qu-ai-wei",
+      "source": "qu-ai-wei/references/whitelists.md",
+      "snapshot": "qu-ai-wei/references/whitelists.md",
+      "source_sha256": "e060c61f98b8316de77001ad589cf0a7558e17e1d935d5cc191125acde3c6dee",
+      "snapshot_sha256": "e060c61f98b8316de77001ad589cf0a7558e17e1d935d5cc191125acde3c6dee",
+      "adaptations": []
+    },
+    {
+      "skill": "qu-ai-wei",
+      "source": "qu-ai-wei/references/examples.md",
+      "snapshot": "qu-ai-wei/references/examples.md",
+      "source_sha256": "4ea201d4d5b96d654a29624071d1ff4d06fc2e2b1f7f466f8c15330d51c29615",
+      "snapshot_sha256": "4ea201d4d5b96d654a29624071d1ff4d06fc2e2b1f7f466f8c15330d51c29615",
+      "adaptations": []
+    },
+    {
+      "skill": "qu-ai-wei",
+      "source": "qu-ai-wei/references/platform-patterns.md",
+      "snapshot": "qu-ai-wei/references/platform-patterns.md",
+      "source_sha256": "58ef6570b4d5b83c26d666bb72e916a1c3e1a502665aa496e10ced9e7fed3b34",
+      "snapshot_sha256": "58ef6570b4d5b83c26d666bb72e916a1c3e1a502665aa496e10ced9e7fed3b34",
+      "adaptations": []
+    }
+  ],
+  "adapted_principles": {
+    "source": "anti-defensive-writing/SKILL.md, user-provided",
+    "source_sha256": "6f072e66f6adf813bc1b4291754f2bc07ed4e65a398359844e97bfa215a1c28e",
+    "adaptation": "../anti-defensive.md",
+    "scope": "核心价值叙事、反自我削弱、证据职责、开场与收尾、弱材料决策及内部复扫；公众号场景重新表述。原文件不再分发。",
+    "adaptation_sha256": "45f4f061ec322759fd95a7ad82ae935a88f32e5af16616c2397af3593e543dfc"
+  }
+}

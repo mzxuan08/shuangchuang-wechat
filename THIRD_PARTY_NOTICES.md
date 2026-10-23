@@ -1,0 +1,10 @@
+# 来源与许可
+
+本技能的公众号工作流、六篇范文的编辑分析、场景示例及反防御改编由 mzxuan08 项目整理发布。
+
+- **lieflat-less-ai-tone**：包内执行规则保留原内容与 MIT License，署名 shiujan。研究附录链接改为说明文字；规则正文完整保留。入口从 `SKILL.md` 改名为 `rules.md`。来源文件身份、原始哈希和包内哈希见 [记录](references/upstream/provenance.json)。
+- **qu-ai-wei**：来源 [LifelongLazyLearner/qu-ai-wei](https://github.com/LifelongLazyLearner/qu-ai-wei)，保留 MIT License、署名与执行参考文档。入口改名为 `rules.md`，正文保留。
+- **anti-defensive-writing**：依据用户提供的技能原则进行公众号场景改编，涵盖价值主线、比较范围、反自我削弱、证据职责、结构、弱材料决策与复扫。未再分发其原始技能文件；对应内容见 [反防御指南](references/anti-defensive.md)。
+- **新闻范文**：五篇“太和护理”文章及一篇由“武汉市科技创新服务中心”转载的《瞭望》科创报道，保留原链接与简短观察摘录，用于写法分析。文章、照片及媒体标识不属于本项目的 MIT 授权范围；原文全文和图片未打包。
+
+源规则中的统计与研究判断保留原归属，本项目不将其重新包装为自己完成的研究。三个能力的具体接法与冲突边界见 [能力映射](references/capabilities.md)。

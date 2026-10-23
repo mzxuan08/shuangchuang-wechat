@@ -1,0 +1,62 @@
+# 双创团队公众号
+
+为创新创业、科研与成果转化团队撰写正式、自然、有专业内容的公众号推文。突出真实贡献，减少防御性写作，兼顾完整报道与准确表达。
+
+**只安装这一个技能即可。** 包内包含三个写作引擎和六篇范文的写法分析，不依赖 Codex、外部技能、模型品牌、脚本运行时或 API Key。
+
+## 三个引擎，合在一个工作流程
+
+| 引擎 | 实际作用 |
+| --- | --- |
+| 价值叙事与反防御 | 选择最有分量的成果，讲清优势与贡献；去掉无关的自我解释、过程流水账和主动示弱 |
+| lieflat 轻清理 | 按11类可定位规则最小改动，保留原结构、全部信息和未命中句子 |
+| qu-ai-wei 重写 | 用信息账本保护事实与逻辑，扫描八个模式族，在授权内调整全文组织与中文表达 |
+
+新稿先建立成果主线，再做轻清理。明确要求重写时才调整全文结构。正式题名、数字、引用与必要条件始终保护。事实核查在后台完成，默认交付标题与完整正文。
+
+适用竞赛喜报、学术交流、项目进展、团队活动、阶段总结和科创深稿。五篇太和护理报道提供短稿写法，《瞭望》报道提供案例、数据与机制衔接的方法。完整对应见 [能力映射](references/capabilities.md)，范文分析见 [来源卡片](references/source-cards.md)。
+
+## 下载
+
+从 [Releases](https://github.com/mzxuan08/shuangchuang-wechat/releases/latest) 下载：
+
+- `shuangchuang-wechat.zip`：通用 Agent Skills 包，适合 Codex、DSH 及支持标准 SKILL.md 的软件。
+- `shuangchuang-wechat-workbuddy.zip`：WorkBuddy 上传包，补齐其开放平台要求的版本、作者和中英文描述字段；写作规则及参考文档与通用包一致。
+
+不要把两个包同时安装到同一个宿主；选对应包即可。下载 GitHub 仓库源码也能使用，仓库根目录就是技能根目录。
+
+## 安装
+
+### Codex 与标准 Agent Skills 宿主
+
+解压通用包，把整个 `shuangchuang-wechat` 文件夹放入宿主的技能目录。Codex 常用目录为 `~/.codex/skills/`。本技能不要求任何 Codex 专属工具；其他宿主按其本地技能目录安装。
+
+### DSH
+
+解压通用包，将文件夹放入用户级 `~/.dsh/skills/`，或项目级 `.dsh/skills/`，使入口成为 `skills/shuangchuang-wechat/SKILL.md`。名称保持 `shuangchuang-wechat`，不要把入口埋在多层目录中。按 [DSH 官方技能文档](https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/subsystems/skills.md) 的发现规则安装；使用自定义 DSH 主目录时以实际配置为准。
+
+### WorkBuddy
+
+在“专家·技能·连接器 → 技能 → 添加技能 → 上传技能”中选择 `shuangchuang-wechat-workbuddy.zip`。安装后确认已启用，再在新对话中点名使用。步骤依据 [WorkBuddy 官方说明](https://www.codebuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market)。
+
+项目内也可按官方文档放入 `.codebuddy/skills/shuangchuang-wechat/`；见 [WorkBuddy 项目配置](https://www.codebuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Project)。桌面个人库和云端个人库分别管理，需要在哪端使用就在哪端导入。
+
+兼容规范和验证范围见 [兼容说明](docs/compatibility.md)。
+
+## 直接使用
+
+> 用双创团队公众号技能，根据以下材料写一篇团队推文。突出最有价值的成果，正式自然，大幅减少防御性写作，只给标题和正文。
+
+> 用 shuangchuang-wechat 轻清理这篇稿子，保留段落、题名、数字和未命中的句子。
+
+> 用 shuangchuang-wechat 的 qu-ai-wei 模式重写这篇推文，可以调整段落，保留所有独立事实和限定。
+
+支持 `$技能名` 的宿主也可使用 `$shuangchuang-wechat`。其他软件可直接点名或从技能菜单选择，不依赖这一语法。
+
+最好提供团队名称、活动与项目资料、角色分工、正式结果、已有数据及确定的后续安排。缺项不需要逐一填表；技能按可成立的主线先写。材料只够简讯时就写简讯。
+
+## 文件
+
+`SKILL.md` 是唯一入口。`references/` 包含写法分析、体裁指南、反防御、编辑规则、事实边界与示例；其中 `upstream/` 保存两套完整编辑规则和许可证。`agents/openai.yaml` 是可选的 Codex 界面配置，其他宿主可忽略。`tools/` 仅用于维护者构建、校验发行包，不参与写稿。
+
+主技能及原创改编采用 [MIT License](LICENSE)，上游文件保留各自的许可证与署名，见 [来源与许可](THIRD_PARTY_NOTICES.md)。新闻原文与图片不随包分发。

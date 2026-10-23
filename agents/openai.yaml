@@ -1,0 +1,6 @@
+interface:
+  display_name: "双创团队公众号"
+  short_description: "融合价值叙事、反防御写作与两种去 AI 味模式，独立完成正式自然的团队推文"
+  default_prompt: "请用 $shuangchuang-wechat 根据材料写团队公众号推文，突出真实贡献，减少防御性写作，保持正式自然。"
+policy:
+  allow_implicit_invocation: true
