@@ -1,8 +1,8 @@
 {
   "retrieved_on": "2026-10-23",
   "original_sample_count": 6,
-  "new_sample_count": 46,
-  "sample_count_total": 52,
+  "new_sample_count": 57,
+  "sample_count_total": 63,
   "method": "读取可访问正文后归纳优点与不沿用的写法，不以搜索摘要替代正文，不分发新闻全文与图片。",
   "batches": [
     {
@@ -64,6 +64,22 @@
         "N44",
         "N45",
         "N46"
+      ]
+    },
+    {
+      "version": "2.4.0",
+      "article_ids": [
+        "N47",
+        "N48",
+        "N49",
+        "N50",
+        "N51",
+        "N52",
+        "N53",
+        "N54",
+        "N55",
+        "N56",
+        "N57"
       ]
     }
   ],
@@ -482,6 +498,107 @@
       "url": "https://www.hbmu.edu.cn/2026/0424/c2350a164588/page.htm",
       "kind": "医学平台合作洽谈",
       "reading": "已通过公开页面直接读取正文；网页工具超时后补全"
+    },
+    {
+      "id": "N47",
+      "title": "医学院举办生物医药成果路演“医谷”专场",
+      "publisher": "上海交通大学医学院成果转化处",
+      "published": "2026-05-18",
+      "url": "https://www.shsmu.edu.cn/tto/info/1023/1251.htm",
+      "kind": "多团队路演短稿",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N48",
+      "title": "从“交朋友”到“建机制”：复旦上医与南京生物医药分中心两次联袂，跑出长三角成果转化“加速度”",
+      "publisher": "复旦大学上海医学院新闻网",
+      "published": "2026-05-29",
+      "url": "https://newsroom.fudan.edu.cn/news/2026/0529/c1893a149384/page.psp",
+      "kind": "连续合作与多项目展示",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N49",
+      "title": "耳鼻咽喉头颈外科护理团队参加中华护理学会耳鼻喉护理学术交流会议作专题报告",
+      "publisher": "四川大学华西医院护理部",
+      "published": "2026-06-03",
+      "url": "https://hxhl.wchscu.cn/detail/86f05858ea714957902e9ec717c6d834",
+      "kind": "专题报告与多形式交流",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N50",
+      "title": "【护理】守微光赴山城 践初心绽芳华—— 天通苑北社区卫生服务中心护理团队亮相全国学术盛会载誉而归",
+      "publisher": "北京清华长庚医院",
+      "published": "2026-05-22",
+      "url": "https://www.btch.edu.cn/hltd/hldt/41755646f3e64da2aa51f884f93c26e7.htm",
+      "kind": "社区护理多成果交流",
+      "reading": "已通过公开页面直接读取正文；网页工具超时后补全"
+    },
+    {
+      "id": "N51",
+      "title": "第一附属医院康复医学科护理团队获多项认可",
+      "publisher": "广西中医药大学",
+      "published": "2026-09-23",
+      "url": "https://www.gxtcmu.edu.cn/xwzx/xyxw/fsdw/content_89951",
+      "kind": "奖项与交流混合短讯",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N52",
+      "title": "学校首届科技成果转化大赛决赛成功举办",
+      "publisher": "山东科技职业大学",
+      "published": "2026-10-22",
+      "url": "https://www.sdvcst.edu.cn/info/1101/352571.htm",
+      "kind": "成果成熟度与评审",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N53",
+      "title": "【南方日报】云浮探索常态化路演对接机制，创新资源不再“隔山望”",
+      "publisher": "广东工业大学（转载南方日报）",
+      "published": "2026-07-27",
+      "date_note": "学校页面日期为7月27日，标注原报刊为南方日报2026年7月14日A01版",
+      "url": "https://www.gdut.edu.cn/info/2045/23843.htm",
+      "kind": "签约后跟进的转化深稿",
+      "reading": "已读取官方转载正文"
+    },
+    {
+      "id": "N54",
+      "title": "学校科技成果转化合同额破亿",
+      "publisher": "南京农业大学",
+      "published": "2026-09-25",
+      "date_note": "页面显示2026/09/25，URL目录含0924，以页面日期为记录依据",
+      "url": "https://www.njau.edu.cn/2026/0924/c1046a142578/page.htm",
+      "kind": "阶段总量与代表项目",
+      "reading": "已读取页面正文及延伸阅读"
+    },
+    {
+      "id": "N55",
+      "title": "聚力精准康复｜邢台市人民医院护理团队 在中华护理学会康复护理学术交流会 分享研究成果",
+      "publisher": "邢台市人民医院",
+      "published": "2026-09-17",
+      "url": "https://www.xtrmyy.cn/index/news/show/classid/49/id/6266",
+      "kind": "联合署名与实际汇报人",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N56",
+      "title": "我院手术室护士受邀在中华护理学会第四届日间手术护理学术会议上大会发言",
+      "publisher": "赣州市人民医院",
+      "published": "2026-05-27",
+      "url": "https://gzsrmyy.com/xwzx/yykx/content_31821",
+      "kind": "单项学术发言短讯",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N57",
+      "title": "以科研促临床，以创新促发展——淮安市一院急诊医学科护理团队多项研究成果亮相学术盛会",
+      "publisher": "淮安市第一人民医院在丁香园医院汇发布的账号文章",
+      "published": "2026-09-26",
+      "url": "https://y.dxy.cn/hospital/1204/1085648.html",
+      "kind": "多场会议与不同成果状态",
+      "reading": "已读取平台文章正文；归属医院账号，不当作平台独立采访"
     }
   ]
 }
