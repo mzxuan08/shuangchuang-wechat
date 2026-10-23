@@ -1,9 +1,9 @@
 {
   "retrieved_on": "2026-10-23",
   "original_sample_count": 6,
-  "new_sample_count": 34,
-  "sample_count_total": 40,
-  "method": "读取可访问正文后归纳写法，不以搜索摘要替代正文，不分发新闻全文与图片。",
+  "new_sample_count": 46,
+  "sample_count_total": 52,
+  "method": "读取可访问正文后归纳优点与不沿用的写法，不以搜索摘要替代正文，不分发新闻全文与图片。",
   "batches": [
     {
       "version": "2.1.0",
@@ -47,6 +47,23 @@
         "N32",
         "N33",
         "N34"
+      ]
+    },
+    {
+      "version": "2.3.0",
+      "article_ids": [
+        "N35",
+        "N36",
+        "N37",
+        "N38",
+        "N39",
+        "N40",
+        "N41",
+        "N42",
+        "N43",
+        "N44",
+        "N45",
+        "N46"
       ]
     }
   ],
@@ -357,6 +374,114 @@
       "url": "https://dylcxy.hbmu.edu.cn/2025/1126/c58a96097/page.htm",
       "kind": "面向新生的项目沙龙",
       "reading": "已读取页面正文"
+    },
+    {
+      "id": "N35",
+      "title": "上海市宁波商会来校访问交流",
+      "publisher": "华东师范大学",
+      "published": "2026-05-22",
+      "url": "https://www.ecnu.edu.cn/info/1094/72321.htm",
+      "kind": "校会企资源交流",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N36",
+      "title": "校领导到广西河南商会调研交流（2026-03-28）",
+      "publisher": "广西大学新闻中心",
+      "published": "2026-03-28",
+      "url": "https://news.gxu.edu.cn/info/1002/43566.htm",
+      "kind": "商会交流短讯",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N37",
+      "title": "山东省吉林商会会长高彦臣一行来我校考察调研",
+      "publisher": "延边大学",
+      "published": "2026-03-31",
+      "url": "https://www.ybu.edu.cn/info/1020/7457.htm",
+      "kind": "特色学科与商会对接",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N38",
+      "title": "经济管理学院（科技商学院）赴芜湖温州商会调研交流",
+      "publisher": "安徽师范大学",
+      "published": "2026-08-03",
+      "url": "https://ahnu.edu.cn/info/1123/188860.htm",
+      "kind": "人才培养与商会合作",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N39",
+      "title": "南京中医药大学护理学院一行赴南京柯基信息科技有限公司开展校企合作交流",
+      "publisher": "南京中医药大学护理学院",
+      "published": "2025-07-14",
+      "url": "https://huli.njucm.edu.cn/2025/0714/c5219a158678/page.htm",
+      "kind": "智慧护理技术交流",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N40",
+      "title": "医学院：赴江苏护理职业学院调研 深探人才培养与校企合作新路径",
+      "publisher": "滁州城市职业学院",
+      "published": "2025-11-10",
+      "url": "https://www.czcvc.net/info/1024/14882.htm",
+      "kind": "院校实训与培养调研",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N41",
+      "title": "组织联建、资源联享、发展联促——五邑大学应用物理与材料学院柔性传感材料与器件研究开发中心党支部赴江门川渝商会党支部开展党建联建",
+      "publisher": "五邑大学柔性传感材料与器件研究开发中心",
+      "published": "2026-01-19",
+      "url": "https://www.wyu.edu.cn/rxclyjzx/info/1069/2032.htm",
+      "kind": "支部联建与产业需求",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N42",
+      "title": "我校赴浙江开展“访企拓岗”专项行动",
+      "publisher": "江苏护理职业学院",
+      "published": "2025-12-23",
+      "url": "https://www.jscn.edu.cn/info/1061/39796.htm",
+      "kind": "岗位需求与协同育人",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N43",
+      "title": "【专业建设】青岛滨海学院赴齐鲁医药学院开展专题交流",
+      "publisher": "青岛滨海学院护理学院",
+      "published": "2025-12-17",
+      "url": "https://hlxy.qdbhu.edu.cn/info/1011/11541.htm",
+      "kind": "专业建设交流",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N44",
+      "title": "产教融合共育才|护理学院领导带队赴福建中医药大学附属第二人民医院开展实践教学管理调研及校企合作班洽谈工作",
+      "publisher": "福建卫生职业技术学院护理学院",
+      "published": "2025-03-06",
+      "url": "https://www.fjwzy.edu.cn/hlx/info/1089/7953.htm",
+      "kind": "学生座谈与方向班洽谈",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N45",
+      "title": "潍坊市江苏商会到我院考察交流",
+      "publisher": "潍坊职业学院宣传部",
+      "published": "2026-05-28",
+      "url": "https://xcb.sdwfvc.edu.cn/info_wz.jsp?urltype=news.NewsContentUrl&wbnewsid=34239&wbtreeid=1003",
+      "kind": "需求交流与后续对接",
+      "reading": "已读取页面正文"
+    },
+    {
+      "id": "N46",
+      "title": "湖北江夏实验室张定宇主任一行来我校洽谈产学研合作",
+      "publisher": "湖北医药学院",
+      "published": "2026-04-24",
+      "url": "https://www.hbmu.edu.cn/2026/0424/c2350a164588/page.htm",
+      "kind": "医学平台合作洽谈",
+      "reading": "已通过公开页面直接读取正文；网页工具超时后补全"
     }
   ]
 }
