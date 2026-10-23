@@ -1,8 +1,8 @@
 {
   "retrieved_on": "2026-10-23",
   "original_sample_count": 6,
-  "new_sample_count": 57,
-  "sample_count_total": 63,
+  "new_sample_count": 65,
+  "sample_count_total": 71,
   "method": "读取可访问正文后归纳优点与不沿用的写法，不以搜索摘要替代正文，不分发新闻全文与图片。",
   "batches": [
     {
@@ -80,6 +80,19 @@
         "N55",
         "N56",
         "N57"
+      ]
+    },
+    {
+      "version": "2.5.0",
+      "article_ids": [
+        "N58",
+        "N59",
+        "N60",
+        "N61",
+        "N62",
+        "N63",
+        "N64",
+        "N65"
       ]
     }
   ],
@@ -599,6 +612,79 @@
       "url": "https://y.dxy.cn/hospital/1204/1085648.html",
       "kind": "多场会议与不同成果状态",
       "reading": "已读取平台文章正文；归属医院账号，不当作平台独立采访"
+    },
+    {
+      "id": "N58",
+      "title": "从竞赛场到创业路：华理“00后”创业团队让实验室技术走进真实场景",
+      "publisher": "华东理工大学",
+      "published": "2026-07-13",
+      "url": "https://www.ecust.edu.cn/2026/0713/c730a202022/page.htm",
+      "kind": "竞赛技术走向产品的团队长稿",
+      "reading": "已读取公开页面完整正文"
+    },
+    {
+      "id": "N59",
+      "title": "破局“AI替代”焦虑：护理学院以交叉创新构建育人新范式",
+      "publisher": "华中科技大学新闻网",
+      "published": "2026-07-07",
+      "url": "https://news.hust.edu.cn/info/1003/59120.htm",
+      "kind": "交叉培养与代表项目专题",
+      "reading": "已读取公开页面完整正文"
+    },
+    {
+      "id": "N60",
+      "title": "护理学院举办2026年度“护理+X”大创项目路演",
+      "publisher": "成都医学院新闻网",
+      "published": "2026-05-19",
+      "url": "https://news.cmc.edu.cn/info/1006/32610.htm",
+      "kind": "代表项目支撑的路演短稿",
+      "reading": "已读取公开页面完整正文"
+    },
+    {
+      "id": "N61",
+      "title": "护理学院成功举办创新科技成果转化项目路演活动",
+      "publisher": "上海交通大学护理学院",
+      "published": "2025-04-24",
+      "url": "https://www.shsmu.edu.cn/hlxy/info/1053/3684.htm",
+      "kind": "面向产业需求的护理路演报道",
+      "reading": "已读取公开页面完整正文"
+    },
+    {
+      "id": "N62",
+      "title": "宁诺创新创业团队凭一枚“硬币”征服业内顶尖企业",
+      "publisher": "宁波诺丁汉大学",
+      "published": "2021-01-11",
+      "date_note": "历史写法样本；页面末尾显示2021年1月11日，不作为当前行业格局依据",
+      "url": "https://www.nottingham.edu.cn/cn/press-release/news-article.aspx?id=f9f2a4c3-4c87-482e-9797-6efeeac8f89d&language=zh",
+      "kind": "技术解释与市场选择长稿",
+      "reading": "已读取公开页面完整正文及页尾日期"
+    },
+    {
+      "id": "N63",
+      "title": "融合式教育故事 | 在校园造“F1”？零经验零资金，他们真的做到了",
+      "publisher": "西交利物浦大学",
+      "published": "2025-11-24",
+      "url": "https://www.xjtlu.edu.cn/zh/news/2025/11/sestories_x-rec",
+      "kind": "多角色师生工程故事",
+      "reading": "已读取公开页面完整正文至尾声"
+    },
+    {
+      "id": "N64",
+      "title": "护理学院“护理科研启航计划”暑期科创夏令营圆满落幕",
+      "publisher": "黑龙江中医药大学护理学院",
+      "published": "2026-07-20",
+      "url": "https://hlxy.hljucm.net/info/1055/1932.htm",
+      "kind": "课程、工作坊与产出衔接的活动稿",
+      "reading": "已读取公开页面完整正文"
+    },
+    {
+      "id": "N65",
+      "title": "笃学精进，星光致远 | 我院第二十二季“星光讲堂” 科研报告会圆满落幕",
+      "publisher": "杭州师范大学公共卫生与护理学院",
+      "published": "2026-06-06",
+      "url": "https://gwhl.hznu.edu.cn/c/2026-06-06/3206596.shtml",
+      "kind": "项目分类与中期考核短稿",
+      "reading": "已读取公开页面完整正文"
     }
   ]
 }

@@ -2,7 +2,7 @@
 name: shuangchuang-wechat
 description: 为双创、科研与成果转化团队撰写或修改微信公众号推文。用于竞赛喜报、学术交流、项目进展、校企商会座谈、签约合作、成果对接、备赛路演、创业孵化、项目结题、社会实践、师生侧记和科创深稿，尤其适合要求正式自然、突出真实贡献、减少防御性写作和去 AI 味的场景。不用于论文或项目申报书。
 metadata:
-  version: "2.4.0"
+  version: "2.5.0"
   author: "mzxuan08"
 ---
 
@@ -27,6 +27,8 @@ metadata:
 先读 [写法与语气](references/style-dna.md) 和 [价值叙事与反防御](references/anti-defensive.md)。按任务读 [体裁指南](references/article-types.md)、[编辑引擎](references/editing.md)。写座谈、签约、成果对接、备赛或人物稿时，再读 [同类报道的具体写法](references/field-style.md)。写孵化成长、结题、社会实践、出征、师生故事或面向新生的沙龙时，读 [孵化与实践写法](references/practice-and-incubation.md)。需要来源时按 [扩展样本任务索引](references/expanded-sources.md) 选择同类卡片，原始语气参照 [原六篇](references/source-cards.md)；需要对照时读 [示例](references/examples.md)。三个技能的能力对应见 [能力映射](references/capabilities.md)。
 
 同场多项目、连续合作或多项学术成果稿，再读 [多项目与连续进展](references/progress-and-selection.md)：按本次新增动作选主次，旧成绩说明来由，各类数量、金额和交流形式逐项对应。
+
+需要把技术讲清楚、用代表项目写短讯或展开人物长稿时，读 [专业内容与人物声音](references/explanation-and-voice.md)：技术接上使用动作，人物各提供不同信息，篇幅由材料支撑。
 
 ## 保留正式称谓与作者语气
 
