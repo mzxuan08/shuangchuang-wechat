@@ -1,8 +1,8 @@
 {
-  "retrieved_on": "2026-10-23",
+  "retrieved_on": "2026-10-24",
   "original_sample_count": 6,
-  "new_sample_count": 65,
-  "sample_count_total": 71,
+  "new_sample_count": 77,
+  "sample_count_total": 83,
   "method": "读取可访问正文后归纳优点与不沿用的写法，不以搜索摘要替代正文，不分发新闻全文与图片。",
   "batches": [
     {
@@ -93,6 +93,24 @@
         "N63",
         "N64",
         "N65"
+      ]
+    },
+    {
+      "version": "2.6.0",
+      "retrieved_on": "2026-10-24",
+      "article_ids": [
+        "N66",
+        "N67",
+        "N68",
+        "N69",
+        "N70",
+        "N71",
+        "N72",
+        "N73",
+        "N74",
+        "N75",
+        "N76",
+        "N77"
       ]
     }
   ],
@@ -685,6 +703,137 @@
       "url": "https://gwhl.hznu.edu.cn/c/2026-06-06/3206596.shtml",
       "kind": "项目分类与中期考核短稿",
       "reading": "已读取公开页面完整正文"
+    },
+    {
+      "id": "N66",
+      "title": "喜讯 | 理工学院靳羽华教授团队荣获第五届龙岗“双创之星”创新创业大赛新材料及节能环保团队组一等奖",
+      "publisher": "香港中文大学（深圳）理工学院",
+      "published": "2025-12-22",
+      "url": "https://sse.cuhk.edu.cn/article/2189",
+      "kind": "团队供稿的获奖与技术介绍",
+      "publication_channel": "团队供稿的学院官网报道；赛事背景另附微信链接",
+      "wechat_url": "https://mp.weixin.qq.com/s/CMBWo2dhVVoS_BpU6AQKmw",
+      "reading": "已读取学院页面完整正文；微信直链未打开，不称整篇微信原文已读"
+    },
+    {
+      "id": "N67",
+      "title": "【天津人社微信号】“创赢未来”2026创业大赛天津市选拔赛暨第七届“海河英才”创业交流展示活动“科技成果+创业”赛道市级初赛在南开区成功举办",
+      "publisher": "天津市大学软件学院（转载天津人社微信号相关内容）",
+      "published": "2026-06-22",
+      "url": "https://www.tjise.edu.cn/info/1009/5445.htm",
+      "kind": "公众号赛事报道与方案合页",
+      "publication_channel": "学校媒体报道页，明确标注公众号来源",
+      "date_note": "学校页面6月22日，正文称公众号报道6月18日；合页另附4月宣传说明，两条原链不计两篇，未独立逐条核对原页日期",
+      "reading": "已读取学校合页完整正文；未直接打开微信原页",
+      "wechat_urls": [
+        "https://mp.weixin.qq.com/s/1oJPnyofKWY1cDbLzrWJkw",
+        "https://mp.weixin.qq.com/s/XZA81BRTu4ZVPHwU6ITKrg"
+      ]
+    },
+    {
+      "id": "N68",
+      "title": "喜报 | 经济学院学子在2025年大学生新文科实践创新大赛中斩获国赛一银一铜",
+      "publisher": "暨南大学经济学院（来源标注学院微信公众号）",
+      "published": "2025-12-19",
+      "url": "https://ec.jnu.edu.cn/2025/1216/c24927a848004/page.htm",
+      "kind": "双团队喜报与实践证据",
+      "publication_channel": "学院官网转载本院公众号文章",
+      "date_note": "页面显示12月19日，以可见日期记录，不按URL中的1216猜日期",
+      "reading": "已读取官网转载的完整正文；公众号归属由页尾来源确认"
+    },
+    {
+      "id": "N69",
+      "title": "张江AI小镇这支全女性OPC创业团火出圈了",
+      "publisher": "浦东人才服务页面（转载张江AI创新小镇公众号）",
+      "published": "2026-05-13",
+      "url": "https://www.pd-italent.com/Article/202605/202605140001.shtml",
+      "kind": "轻创业团队的作品与孵化故事",
+      "publication_channel": "标明公众号来源并附原文链接的转载页",
+      "wechat_url": "https://mp.weixin.qq.com/s/3BfWb3STOcQdgxCFAlbJQw",
+      "reading": "已读取转载页完整正文；未直接打开微信原页"
+    },
+    {
+      "id": "N70",
+      "title": "【江苏高校国际传播】“金点子”对决，“金项目”落地！2026国创赛非洲区域赛决赛举行",
+      "publisher": "南京农业大学（附江苏高校国际传播微信原文链接）",
+      "published": "2026-08-09",
+      "url": "https://www.njau.edu.cn/2026/0809/c1108a142089/page.htm",
+      "kind": "区域赛事与项目应用的公众号转载",
+      "publication_channel": "高校转载并附微信原文链接",
+      "wechat_url": "https://mp.weixin.qq.com/s/MXA3lXDzSPeeqghNa9Uu8A",
+      "reading": "已读取官网转载完整正文；微信原页未直接读取"
+    },
+    {
+      "id": "N71",
+      "title": "“津门教育”微信公众号丨2026年“挑战杯”天津市大学生创业计划竞赛决赛举行",
+      "publisher": "天津工业大学新闻网（转载津门教育微信公众号）",
+      "published": "2026-06-08",
+      "url": "https://news.tiangong.edu.cn/2026/0611/c666a115663/page.htm",
+      "kind": "赛事总览中的单团队进展",
+      "publication_channel": "标题明确标注公众号来源的学校转载",
+      "date_note": "页面显示6月8日，URL含0611，以页面日期为准",
+      "reading": "已读取学校转载完整正文"
+    },
+    {
+      "id": "N72",
+      "title": "喜报！我校学子在“创赢未来”2026创业大赛湖北省总决赛中喜获佳绩",
+      "publisher": "湖北科技学院创新创业学院",
+      "published": "2026-07-02",
+      "url": "https://cxcyw.hbust.edu.cn/info/1040/1593.htm",
+      "kind": "地方产业项目的省赛喜报",
+      "publication_channel": "高校创新创业学院官网报道",
+      "reading": "已读取页面完整正文"
+    },
+    {
+      "id": "N73",
+      "title": "第二临床学院举办创新创业沙龙",
+      "publisher": "湖北医药学院第二临床学院",
+      "published": "2025-09-30",
+      "url": "https://delcxy.hbmu.edu.cn/2025/1015/c75a93940/page.htm",
+      "kind": "医药多团队沙龙",
+      "publication_channel": "学院官网报道",
+      "date_note": "页面显示2025年9月30日，活动为9月26日；不以URL的1015替代发布日期",
+      "reading": "已读取页面完整正文"
+    },
+    {
+      "id": "N74",
+      "title": "我院双创服务中心暑期三下乡团队获“红色文创青创计划”校级立项",
+      "publisher": "成都大学创新创业学院",
+      "published": "2026-06-18",
+      "url": "https://cxcyxy.cdu.edu.cn/info/1017/4325.htm",
+      "kind": "学生双创服务团队的立项与准备",
+      "publication_channel": "高校双创服务中心相关官网报道",
+      "reading": "已读取页面完整正文"
+    },
+    {
+      "id": "N75",
+      "title": "青春“创”能量 聚力再出发——创新创业学院成功举办2025-2026学年享创NUC大学生创新创业协会换届仪式",
+      "publisher": "中北大学创新创业学院",
+      "published": "2025-09-24",
+      "url": "https://cxcy.nuc.edu.cn/info/1037/3652.htm",
+      "kind": "双创协会交接与运营成果",
+      "publication_channel": "高校官网报道，涉及享创中北公众号运营",
+      "reading": "已读取页面完整正文"
+    },
+    {
+      "id": "N76",
+      "title": "喜报！我校联合清华大学在昇腾AI·鲲鹏创新大赛喜获双奖",
+      "publisher": "郑州科技学院科研处",
+      "published": "2025-12-02",
+      "url": "https://kyc.zit.edu.cn/info/1032/3155.htm",
+      "kind": "跨校团队成果与参赛者反思",
+      "publication_channel": "高校官网报道",
+      "reading": "已通过网页工具读取完整正文；直接请求失败后未降低TLS校验"
+    },
+    {
+      "id": "N77",
+      "title": "创星闪耀｜夜合科技团队：让医疗走出诊室，用睡眠科技守护万人安睡",
+      "publisher": "中国高校创新创业教育联盟",
+      "published": "",
+      "url": "https://ieeac2015.org.cn/newsdetail/6a43547bc0054e002dd236d7/",
+      "kind": "医工创业团队的产品选择与访谈",
+      "publication_channel": "联盟团队专栏网页；未确认同稿公众号原页",
+      "reading": "已读取页面完整正文；页面未见完整发布日期"
     }
   ]
 }
