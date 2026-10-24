@@ -1,8 +1,8 @@
 {
   "retrieved_on": "2026-10-24",
   "original_sample_count": 6,
-  "new_sample_count": 102,
-  "sample_count_total": 108,
+  "new_sample_count": 112,
+  "sample_count_total": 118,
   "method": "读取可访问正文后归纳优点与不沿用的写法，不以搜索摘要替代正文，不分发新闻全文与图片。",
   "batches": [
     {
@@ -148,6 +148,22 @@
         "N100",
         "N101",
         "N102"
+      ]
+    },
+    {
+      "version": "2.9.0",
+      "retrieved_on": "2026-10-24",
+      "article_ids": [
+        "N103",
+        "N104",
+        "N105",
+        "N106",
+        "N107",
+        "N108",
+        "N109",
+        "N110",
+        "N111",
+        "N112"
       ]
     }
   ],
@@ -1123,6 +1139,106 @@
       "kind": "多位创业者的独立短故事",
       "publication_channel": "媒体网页合辑；未确认同稿公众号原页",
       "reading": "直接请求403后通过网页工具读取完整正文；未降低访问安全校验"
+    },
+    {
+      "id": "N103",
+      "title": "活力中国调研行丨“只要你有一个好想法”，北京加速科研创意变现实",
+      "publisher": "北京国际科技创新中心网络服务平台（来源：未来科学城微信公众号）",
+      "published": "2026-06-16",
+      "url": "https://www.ncsti.gov.cn/kjdt/scyq/wlkxc/wldt/202606/t20260616_249796.html",
+      "kind": "科研协作与共享孵化案例",
+      "publication_channel": "网页明确标注公众号来源，读取转载正文",
+      "reading": "已读取可访问网页完整正文；未以搜索摘要补齐"
+    },
+    {
+      "id": "N104",
+      "title": "聚焦“AI+医药”，中关村“火花”活动继续！",
+      "publisher": "北京国际科技创新中心网络服务平台（来源：北京国际科技创新中心微信公众号）",
+      "published": "2023-02-18",
+      "url": "https://www.ncsti.gov.cn/kjdt/ztbd/rgzn/zxjz/202308/t20230831_132485.html",
+      "kind": "多角色成果转化交流",
+      "publication_channel": "网页明确标注公众号来源；页面日期与URL年份月份不同，以正文标注为准",
+      "reading": "已读取可访问网页完整正文；未以搜索摘要补齐"
+    },
+    {
+      "id": "N105",
+      "title": "解锁高能赛场！全球双创大赛青浦赛区来啦",
+      "publisher": "上海市青浦区人民政府（来源：绿色青浦微信公众号）",
+      "published": "2026-05-29",
+      "url": "https://www.shqp.gov.cn/shqp/shms/20260529/1372674.html",
+      "kind": "选拔赛与参赛者应用介绍",
+      "publication_channel": "明确标注公众号来源的政府转载",
+      "reading": "已读取可访问网页完整正文；未以搜索摘要补齐"
+    },
+    {
+      "id": "N106",
+      "title": "推翻，再建立；失败，再重来——金奖团队的坚持与热爱",
+      "publisher": "中国校园在线（来源署名：青春兰大）",
+      "published": "2021-11-25",
+      "url": "https://www.i360edu.com/detail/11375.html",
+      "kind": "催化剂团队的设计与备赛故事",
+      "publication_channel": "转载页署名青春兰大；未确认微信原页，不按名称自行认定渠道",
+      "reading": "已读取可访问网页完整正文；未以搜索摘要补齐"
+    },
+    {
+      "id": "N107",
+      "title": "【青春上海】奋斗者·正青春｜华理本科生创新团队攻关3款高精度柔性传感器，签三百万意向订单",
+      "publisher": "华东理工大学（原文来源：青春上海）",
+      "published": "2022-08-29",
+      "url": "https://www.ecust.edu.cn/2022/0829/c767a167966/page.htm",
+      "kind": "多专业协作与不同产品阶段",
+      "publication_channel": "学校转载媒体文章；页内另标原文发表时间2022-08-14，未直接读微信原页",
+      "reading": "已读取可访问网页完整正文；未以搜索摘要补齐"
+    },
+    {
+      "id": "N108",
+      "title": "郑大故事：七年深耕，用坚守书写科创惠民新篇——记中国国际大学生创新大赛（2025）金奖团队“豫战早癌”",
+      "publisher": "郑州大学",
+      "published": "2025-12-15",
+      "url": "https://new.zzu.edu.cn/info/1347/87329.htm",
+      "kind": "医工训练器的需求与版本演进",
+      "publication_channel": "高校官网团队故事；未确认同稿微信原页",
+      "reading": "已读取可访问网页完整正文；未以搜索摘要补齐"
+    },
+    {
+      "id": "N109",
+      "title": "首摘国家级银奖！",
+      "publisher": "广西外国语学院创新创业学院",
+      "published": "2025-10-18",
+      "url": "https://sei.gxufl.edu.cn/info/108127",
+      "kind": "连续备赛与路演分工",
+      "publication_channel": "高校官网喜报；未确认微信原页",
+      "reading": "已读取可访问网页完整正文；未以搜索摘要补齐"
+    },
+    {
+      "id": "N110",
+      "title": "【学生说双创】我与上科大创新创业大会的故事",
+      "publisher": "上海科技大学科技发展处（学生陈奕璇自述）",
+      "published": "2021-12-30",
+      "url": "https://ott.shanghaitech.edu.cn/2021/1230/c9078a239060/page.htm",
+      "kind": "跨届项目选择的第一人称回顾",
+      "publication_channel": "学校官网学生自述；项目使用公众号销售不等于本文为微信原发",
+      "reading": "已读取可访问网页完整正文；未以搜索摘要补齐"
+    },
+    {
+      "id": "N111",
+      "title": "专访：陕西省第二届青年志愿服务项目大赛金奖团队",
+      "publisher": "西安工业大学",
+      "published": "2026-05-07",
+      "url": "https://www.xatu.edu.cn/info/1033/30473.htm",
+      "kind": "科普服务团队与回访",
+      "publication_channel": "高校官网专访，介绍自办公众号，未确认本文微信原页",
+      "reading": "已读取可访问网页完整正文；未以搜索摘要补齐"
+    },
+    {
+      "id": "N112",
+      "title": "双创中心举办双考双创微信公众号运营学生培训会",
+      "publisher": "西北大学现代学院（双创中心供稿）",
+      "published": "2025-04-17",
+      "url": "https://www.xdxd.cn/e/wap/show-article.php?classid=2&id=63400&style=0",
+      "kind": "双创团队账号的差异化内容组织",
+      "publication_channel": "学校官网运营培训报道；涉及两个学生自办公众号，非两篇原推文",
+      "reading": "已读取可访问网页完整正文；未以搜索摘要补齐"
     }
   ]
 }
