@@ -62,12 +62,21 @@ def validate(files):
     cards=(ROOT/'references/source-cards.md').read_text(encoding='utf-8')
     assert all(f'## S{i}｜' in cards for i in range(1,7))
     corpus=json.loads((ROOT/'references/learning-corpus.json').read_text(encoding='utf-8'))
-    new_cards=(ROOT/'references/expanded-sources.md').read_text(encoding='utf-8')
+    card_files=corpus.get('card_files',['expanded-sources.md'])
+    assert len(card_files)==len(set(card_files))
+    assert all(Path(x).name==x and x.endswith('.md') for x in card_files)
+    new_cards='\n'.join((ROOT/'references'/x).read_text(encoding='utf-8') for x in card_files)
     articles=corpus['articles']
     assert len(articles)==corpus['new_sample_count']
     assert len({x['id'] for x in articles})==len(articles)
     assert len({x['url'] for x in articles})==len(articles)
-    assert all(f"## {x['id']}｜" in new_cards for x in articles)
+    assert all(new_cards.count(f"## {x['id']}｜")==1 for x in articles)
+    hashes=[x['body_sha256'] for x in articles if x.get('body_sha256')]
+    assert len(hashes)==len(set(hashes)), 'Duplicate acquired text'
+    for article in articles:
+        if article.get('review_mode'):
+            assert article['review_mode'] in {'full_text','structured_reading'}
+            assert article['card_file'] in card_files
     assert corpus['sample_count_total']==6+len(articles)
     assert [x['id'] for x in articles]==[f'N{i:02d}' for i in range(1,len(articles)+1)]
     assert all(x['url'].startswith('https://') and x['reading'] for x in articles)
