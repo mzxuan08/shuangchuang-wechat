@@ -1,8 +1,8 @@
 {
   "retrieved_on": "2026-10-24",
   "original_sample_count": 6,
-  "new_sample_count": 90,
-  "sample_count_total": 96,
+  "new_sample_count": 102,
+  "sample_count_total": 108,
   "method": "读取可访问正文后归纳优点与不沿用的写法，不以搜索摘要替代正文，不分发新闻全文与图片。",
   "batches": [
     {
@@ -130,6 +130,24 @@
         "N88",
         "N89",
         "N90"
+      ]
+    },
+    {
+      "version": "2.8.0",
+      "retrieved_on": "2026-10-24",
+      "article_ids": [
+        "N91",
+        "N92",
+        "N93",
+        "N94",
+        "N95",
+        "N96",
+        "N97",
+        "N98",
+        "N99",
+        "N100",
+        "N101",
+        "N102"
       ]
     }
   ],
@@ -983,6 +1001,128 @@
       "kind": "多种创业服务并行开展",
       "publication_channel": "高校官方新闻网页",
       "reading": "已读取可访问网页完整正文；未将搜索摘要计作正文"
+    },
+    {
+      "id": "N91",
+      "title": "京彩面对面丨京彩青春，创响未来——北京大学生创新创业大赛中国农业大学专访",
+      "publisher": "中国农业大学新闻网（转载精彩大创）",
+      "published": "2022-07-19",
+      "url": "https://news.cau.edu.cn/mtndnew/872806.htm",
+      "kind": "赛事支持的完整问答",
+      "publication_channel": "明确标注精彩大创微信公众号，附原链；读取学校转载",
+      "reading": "已读取可访问网页完整正文；非搜索摘要",
+      "wechat_url": "https://mp.weixin.qq.com/s/qEafnXU8st7XZfbcwA_zmg"
+    },
+    {
+      "id": "N92",
+      "title": "从竞赛场到创业路，华理00后创业团队让实验室技术走进真实场景",
+      "publisher": "青年报·青春上海",
+      "published": "2026-07-09",
+      "url": "https://www.why.com.cn/wx/article/2026/07/09/17835784241026192227.html",
+      "kind": "竞赛作品转向商用产品的团队故事",
+      "publication_channel": "青年报网站，页尾来源青春上海News—24小时青年报；未确认同稿微信原页",
+      "reading": "已读取可访问网页完整正文；非搜索摘要"
+    },
+    {
+      "id": "N93",
+      "title": "历史性突破！我校斩获 “挑战杯” 四川省赛特等奖",
+      "publisher": "南充文化旅游职业学院团委",
+      "published": "2026-06-16",
+      "url": "https://tw.ncvcct.edu.cn/2026_06/16_10/content-27629.shtml",
+      "kind": "文创与农产品服务的多项目喜报",
+      "publication_channel": "文末明确来源为学校微信公众号；读取团委转载",
+      "reading": "已读取可访问网页完整正文；非搜索摘要"
+    },
+    {
+      "id": "N94",
+      "title": "乘风破浪，踏浪而归！这群不到30岁的年轻人斩获省青年创新创业大赛金奖！",
+      "publisher": "慈溪发布官方澎湃号（来源：青春慈溪）",
+      "published": "2020-09-24",
+      "url": "https://m.thepaper.cn/newsDetail_forward_9333711",
+      "kind": "医工转化项目的成员分工",
+      "publication_channel": "机构澎湃号转载，附阅读原文微信链接；未直接读取微信原页",
+      "reading": "已读取可访问网页完整正文；非搜索摘要",
+      "wechat_url": "https://mp.weixin.qq.com/s?__biz=MzA4MzQ2OTU3MA==&mid=2651361042&idx=2&sn=0c0dc7eb6d31d72ccb6439117916cbc7&chksm=8409db7fb37e5269476e79dc6be4490dad8acb7ff190735c3702f6332239a84b8c36342d9a8c#rd"
+    },
+    {
+      "id": "N95",
+      "title": "普陀 | 团区委主办的海外人才专项赛推报项目在“创青春”市赛获奖",
+      "publisher": "上海国际人才网（报送来源：青春普陀）",
+      "published": "2024-02-23",
+      "url": "https://www.sh-italent.com/Article/202402/202402230002.shtml",
+      "kind": "不同赛道获奖项目简介",
+      "publication_channel": "来源署名青春普陀的转载网页；未确认微信原页",
+      "reading": "已读取可访问网页完整正文；非搜索摘要"
+    },
+    {
+      "id": "N96",
+      "title": "新湖南：青春合伙人·学长创客厅㉗丨曹宇凡：打造覆盖六省20+高校的校园服务生态",
+      "publisher": "湖南科技学院新闻网（转载新湖南）",
+      "published": "2025-06-14",
+      "url": "https://www.huse.edu.cn/news/info/1818/149791.htm",
+      "kind": "校园服务产品与商业模式调整",
+      "publication_channel": "高校转载媒体创客专栏；未确认公众号同稿原发",
+      "reading": "已读取可访问网页完整正文；非搜索摘要"
+    },
+    {
+      "id": "N97",
+      "title": "叁悟青年传媒——热辣滚烫创青春 晴川智慧绽繁花",
+      "publisher": "武汉晴川学院创新创业学院",
+      "published": "2025-07-14",
+      "url": "https://cxxy.qcuwh.edu.cn/info/1027/1314.htm",
+      "kind": "学生传媒公司成长",
+      "publication_channel": "高校创业学院官网文章；未确认同稿公众号原页",
+      "reading": "已读取可访问网页完整正文；非搜索摘要"
+    },
+    {
+      "id": "N98",
+      "title": "【科创同行 访谈传薪】 “挑战杯”国奖团队专访——「绝境逢生」",
+      "publisher": "北京农学院团委",
+      "published": "2025-11-28",
+      "url": "https://tw.bua.edu.cn/info/1047/7382.htm",
+      "kind": "乡村调研团队访谈",
+      "publication_channel": "校团委专栏网页；未确认微信原页",
+      "reading": "已读取可访问网页完整正文；非搜索摘要"
+    },
+    {
+      "id": "N99",
+      "title": "【特别报道】地听天算：从桂工实验室走向国赛金奖的破壁之路——访我校中国国际大学生创新大赛（2025）全国总决赛金奖项目团队",
+      "publisher": "桂林理工大学",
+      "published": "2025-11-11",
+      "url": "https://www.glut.edu.cn/info/1073/32016.htm",
+      "kind": "技术型团队长篇访谈",
+      "publication_channel": "高校官网特别报道；未确认微信原页",
+      "reading": "已读取可访问网页完整正文；非搜索摘要"
+    },
+    {
+      "id": "N100",
+      "title": "王炳翰：创新创业，领航未来",
+      "publisher": "北京科技大学新闻网",
+      "published": "2025-02-28",
+      "url": "https://news.ustb.edu.cn/info/1141/68045.htm",
+      "kind": "学生创业者与产品、社群不同贡献",
+      "publication_channel": "高校官网人物稿；未确认微信原页",
+      "reading": "已读取可访问网页完整正文；非搜索摘要"
+    },
+    {
+      "id": "N101",
+      "title": "“三结合”教学育人案例 ——融合科学创新与人文情怀的教学育人模式",
+      "publisher": "甘肃农业大学动物科学技术学院（作者：陈皮社）",
+      "published": "2025-12-18",
+      "url": "https://dk.gsau.edu.cn/info/1043/22862.htm",
+      "kind": "产学研团队的技术与人文双栏目",
+      "publication_channel": "团队署名的学院网页，介绍两个自办公众号；未读取被介绍推文的完整原页",
+      "reading": "已读取可访问网页完整正文；非搜索摘要"
+    },
+    {
+      "id": "N102",
+      "title": "“青春小店”学兄学姐分享创业故事",
+      "publisher": "中国青年网（来源：中国青年报）",
+      "published": "2026-07-27",
+      "url": "https://news.youth.cn/sh/202607/t20260727_16785005.htm",
+      "kind": "多位创业者的独立短故事",
+      "publication_channel": "媒体网页合辑；未确认同稿公众号原页",
+      "reading": "直接请求403后通过网页工具读取完整正文；未降低访问安全校验"
     }
   ]
 }
