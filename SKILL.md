@@ -1,8 +1,8 @@
 ---
 name: shuangchuang-wechat
-description: 为双创、科研与成果转化团队撰写或修改微信公众号推文。用于竞赛喜报、学术交流、项目进展、校企商会座谈、签约合作、成果对接、备赛路演、创业孵化、项目结题、社会实践、师生侧记和科创深稿，尤其适合要求正式自然、突出真实贡献、减少防御性写作和去 AI 味的场景。不用于论文或项目申报书。
+description: 为双创、科研与成果转化团队撰写或修改微信公众号推文。用于竞赛喜报、学术交流、项目进展、校企商会座谈、签约合作、成果对接、备赛路演、创业孵化、项目结题、社会实践、团队招募与活动预告、师生侧记和科创深稿，尤其适合要求正式自然、突出真实贡献、减少防御性写作和去 AI 味的场景。不用于论文或项目申报书。
 metadata:
-  version: "2.6.0"
+  version: "2.7.0"
   author: "mzxuan08"
 ---
 
@@ -24,7 +24,7 @@ metadata:
 
 **普通改稿不等于白名单清理。** 常规编辑可精简同义铺垫、合并重复意义段，把问题改到句子和篇章上，不能只换顿号或连接词就称完成。保持原结构只约束段落与层级，不自动要求每个句子逐字不动。用户只要局部改动时仍局部处理；独立事实、实质评价、负面结果及限定均保留。进一步删减独立内容或改变主线，须有相应授权。
 
-先读 [写法与语气](references/style-dna.md) 和 [价值叙事与反防御](references/anti-defensive.md)。按任务读 [体裁指南](references/article-types.md)、[编辑引擎](references/editing.md)。写座谈、签约、成果对接、备赛或人物稿时，再读 [同类报道的具体写法](references/field-style.md)。写孵化成长、结题、社会实践、出征、师生故事或面向新生的沙龙时，读 [孵化与实践写法](references/practice-and-incubation.md)。需要来源时按 [扩展样本任务索引](references/expanded-sources.md) 选择同类卡片，原始语气参照 [原六篇](references/source-cards.md)；需要对照时读 [示例](references/examples.md)。三个技能的能力对应见 [能力映射](references/capabilities.md)。
+先读 [写法与语气](references/style-dna.md) 和 [价值叙事与反防御](references/anti-defensive.md)。按任务读 [体裁指南](references/article-types.md)、[编辑引擎](references/editing.md)。写座谈、签约、成果对接、备赛或人物稿时，再读 [同类报道的具体写法](references/field-style.md)。写孵化成长、结题、社会实践、出征、师生故事、招募或预告时，读 [孵化与实践写法](references/practice-and-incubation.md)。需要来源时按 [扩展样本任务索引](references/expanded-sources.md) 选择同类卡片，原始语气参照 [原六篇](references/source-cards.md)；需要对照时读 [示例](references/examples.md)。三个技能的能力对应见 [能力映射](references/capabilities.md)。
 
 同场多项目、连续合作或多项学术成果稿，再读 [多项目与连续进展](references/progress-and-selection.md)：按本次新增动作选主次，旧成绩说明来由，各类数量、金额和交流形式逐项对应。
 

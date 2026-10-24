@@ -1,8 +1,8 @@
 {
   "retrieved_on": "2026-10-24",
   "original_sample_count": 6,
-  "new_sample_count": 77,
-  "sample_count_total": 83,
+  "new_sample_count": 90,
+  "sample_count_total": 96,
   "method": "读取可访问正文后归纳优点与不沿用的写法，不以搜索摘要替代正文，不分发新闻全文与图片。",
   "batches": [
     {
@@ -111,6 +111,25 @@
         "N75",
         "N76",
         "N77"
+      ]
+    },
+    {
+      "version": "2.7.0",
+      "retrieved_on": "2026-10-24",
+      "article_ids": [
+        "N78",
+        "N79",
+        "N80",
+        "N81",
+        "N82",
+        "N83",
+        "N84",
+        "N85",
+        "N86",
+        "N87",
+        "N88",
+        "N89",
+        "N90"
       ]
     }
   ],
@@ -834,6 +853,136 @@
       "kind": "医工创业团队的产品选择与访谈",
       "publication_channel": "联盟团队专栏网页；未确认同稿公众号原页",
       "reading": "已读取页面完整正文；页面未见完整发布日期"
+    },
+    {
+      "id": "N78",
+      "title": "喜报！特等奖八项！我校在第十五届“挑战杯”中国大学生创业计划竞赛河北省选拔赛中斩获佳绩",
+      "publisher": "共青团河北大学委员会",
+      "published": "2026-06-12",
+      "url": "https://tuanwei.hbu.edu.cn/contents/542/15429.html",
+      "kind": "多项目省赛喜报",
+      "publication_channel": "官网转载，页面标注来源为“河北大学青年”微信公众号",
+      "reading": "已读取可访问网页完整正文；未将搜索摘要计作正文"
+    },
+    {
+      "id": "N79",
+      "title": "喜报！我院浮萍蛋白创新项目斩获 “科创・柳叶湖” 合成生物制造创新创业大赛年度新锐奖",
+      "publisher": "深圳理工大学未来农业研究院",
+      "published": "2026-01-26",
+      "url": "https://ieat.suat-sz.edu.cn/info/1027/1242.htm",
+      "kind": "获奖项目的不同产线进度",
+      "publication_channel": "研究院网页，文末标注常德市人民政府公众号来源",
+      "reading": "已读取可访问网页完整正文；未将搜索摘要计作正文"
+    },
+    {
+      "id": "N80",
+      "title": "喜报！北京市合成生物制造技术创新中心首个技术成果转化项目落地",
+      "publisher": "北京国际科技创新中心网络服务平台",
+      "published": "2026-03-10",
+      "url": "https://www.ncsti.gov.cn/kjdt/scyq/wlkxc/wldt/202603/t20260310_240432.html",
+      "kind": "注册入驻与孵化服务",
+      "publication_channel": "平台转载，注明来源为未来科学城微信公众号",
+      "reading": "已读取可访问网页完整正文；未将搜索摘要计作正文"
+    },
+    {
+      "id": "N81",
+      "title": "北邮EZCoding大创团队——大模型赋能智慧教育的探索者",
+      "publisher": "中国高校创新创业教育联盟（供稿：码上初发团队）",
+      "published": "2025-11-25",
+      "url": "https://ieeac2015.org.cn/newsdetail/693f9afd1280e9002f35e1b4/",
+      "kind": "教育产品迭代与团队成长",
+      "publication_channel": "“创星闪耀·双创团队先锋录”同名专栏网页；首期说明该栏目为联盟官方微信公众号专栏，未直接读取微信原页",
+      "reading": "已读取可访问网页完整正文；未将搜索摘要计作正文"
+    },
+    {
+      "id": "N82",
+      "title": "清华“光子芯力”——全波光电融合计算芯片",
+      "publisher": "中国高校创新创业教育联盟（供稿：光子芯力团队）",
+      "published": "2025-11-11",
+      "url": "https://ieeac2015.org.cn/newsdetail/6919cbaf2dbb8a002d8e71af/",
+      "kind": "硬软协同的创业团队专访",
+      "publication_channel": "首期正文明确介绍联盟官方微信公众号专栏；本次读取联盟网页，未直接读取微信原页",
+      "reading": "已读取可访问网页完整正文；未将搜索摘要计作正文"
+    },
+    {
+      "id": "N83",
+      "title": "上海体育大学“武魂数传”团队——中国武术数字化焕新引领者",
+      "publisher": "中国高校创新创业教育联盟（供稿：武魂数传团队）",
+      "published": "2025-12-12",
+      "url": "https://ieeac2015.org.cn/newsdetail/693fd4288b1b140033bf9b98/",
+      "kind": "传统文化项目的多类使用场景",
+      "publication_channel": "“创星闪耀·双创团队先锋录”专栏网页；未直接读取微信原页",
+      "reading": "已读取可访问网页完整正文；未将搜索摘要计作正文"
+    },
+    {
+      "id": "N84",
+      "title": "联盟2025年度总结",
+      "publisher": "中国高校创新创业教育联盟",
+      "published": "2026-01-01",
+      "url": "https://ieeac2015.org.cn/newsdetail/695cb1212c8868021f5c2a3d/",
+      "kind": "双创组织年度总结",
+      "publication_channel": "联盟官网年度总结；涉及公众号运营，不据此认定同稿公众号原发",
+      "reading": "已读取可访问网页完整正文；未将搜索摘要计作正文"
+    },
+    {
+      "id": "N85",
+      "title": "中国科大首期“领创计划”阶段总结汇报会成功举办",
+      "publisher": "中国科学技术大学党建与思政网（创新创业学院）",
+      "published": "2025-03-25",
+      "url": "https://djyszw.ustc.edu.cn/info/1006/6652.htm",
+      "kind": "阶段汇报与创业指导",
+      "publication_channel": "高校官方新闻网页",
+      "reading": "已读取可访问网页完整正文；未将搜索摘要计作正文"
+    },
+    {
+      "id": "N86",
+      "title": "宝鸡文理学院校级创新创业团队招新公告",
+      "publisher": "宝鸡文理学院教务处（招生办公室）",
+      "published": "2023-05-10",
+      "url": "https://jwc.bjwlxy.edu.cn/info/1031/3262.htm",
+      "kind": "双创团队分部门招募",
+      "publication_channel": "高校官方通知网页；历史样本",
+      "reading": "已读取可访问网页完整正文；未将搜索摘要计作正文"
+    },
+    {
+      "id": "N87",
+      "title": "【招贤纳士】本科生院大学生创新创业俱乐部招新通知",
+      "publisher": "西南交通大学本科生院（教务处）",
+      "published": "2025-09-15",
+      "url": "https://jwc.swjtu.edu.cn/vatuu/WebAction?newsId=7D7E094C8938B7B3&setAction=newsDetail&viewType=web",
+      "kind": "俱乐部招新与说明会",
+      "publication_channel": "高校官方通知网页",
+      "reading": "已读取可访问网页完整正文；未将搜索摘要计作正文"
+    },
+    {
+      "id": "N88",
+      "title": "关于2026年创新创业场地入驻遴选的通知",
+      "publisher": "广东外语外贸大学创新创业学院",
+      "published": "2026-10-10",
+      "url": "https://gwcxcy.gdufs.edu.cn/info/1201/6964.htm",
+      "kind": "多类型团队入驻申请",
+      "publication_channel": "高校官方通知网页",
+      "reading": "已读取可访问网页完整正文；未将搜索摘要计作正文"
+    },
+    {
+      "id": "N89",
+      "title": "计算机学院2026年大学生创新创业训练项目结题答辩圆满完成",
+      "publisher": "中南大学计算机学院",
+      "published": "2026-03-31",
+      "url": "https://cse.csu.edu.cn/info/1042/11156.htm",
+      "kind": "结题答辩过程报道",
+      "publication_channel": "高校官方新闻网页",
+      "reading": "已读取可访问网页完整正文；未将搜索摘要计作正文"
+    },
+    {
+      "id": "N90",
+      "title": "“创星闪耀 湘创未来”湖南省大学生创业导师校园行暨湖南中医药大学潇湘岐黄·创业大讲堂、创业沙龙、创业门诊成功举办",
+      "publisher": "湖南中医药大学新闻网（创新创业学院、针灸推拿与康复学院）",
+      "published": "2026-05-31",
+      "url": "https://news.hnucm.edu.cn/info/1014/17928.htm",
+      "kind": "多种创业服务并行开展",
+      "publication_channel": "高校官方新闻网页",
+      "reading": "已读取可访问网页完整正文；未将搜索摘要计作正文"
     }
   ]
 }
